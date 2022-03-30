@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/picklerick/static/css/main.378258f4.css",
+    "main.js": "/picklerick/static/js/main.059b349a.js",
+    "static/js/787.70146e75.chunk.js": "/picklerick/static/js/787.70146e75.chunk.js",
+    "index.html": "/picklerick/index.html",
+    "main.378258f4.css.map": "/picklerick/static/css/main.378258f4.css.map",
+    "main.059b349a.js.map": "/picklerick/static/js/main.059b349a.js.map",
+    "787.70146e75.chunk.js.map": "/picklerick/static/js/787.70146e75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.378258f4.css",
+    "static/js/main.059b349a.js"
+  ]
+}
